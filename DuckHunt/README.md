@@ -6,7 +6,7 @@
 </p>
 
 <h2>Gameplay</h2>
-<p><strong>Gameplay link:</strong> <em>Will remain empty for a while.</em></p>
+<p><strong>Gameplay link:</strong> <em>https://youtu.be/Xs74GcHZxU4?si=7WdTfK8DTztYHkIs</em></p>
 
 <h2>How to Play</h2>
 <h3>1. Running the Game</h3>
