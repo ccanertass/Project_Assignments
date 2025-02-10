@@ -6,7 +6,6 @@ BlockFall is a console-based tile-matching game inspired by Tetris. Players must
 - **Linked Lists**
 - **Dynamic Memory Allocation**
 - **Matrices**
-- **File I/O**
 
 This project is part of the **BBM203 Software Practicum I** course.
 
