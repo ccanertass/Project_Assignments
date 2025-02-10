@@ -13,5 +13,4 @@ This project is part of the **BBM203 Software Practicum I** course.
 - **Classic Mode**: Play with traditional block mechanics.
 - **Block Rotation & Movement**: Move blocks left, right, rotate clockwise, or counterclockwise.
 - **Leaderboard**: Saves top 10 high scores with timestamps.
-- **File-Based Input**: Reads game grid, blocks, and commands from `.dat` files.
 - **Dynamic Memory Management**: Efficient use of linked lists for storing blocks and scores.
